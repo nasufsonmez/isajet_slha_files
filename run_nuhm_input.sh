@@ -1,5 +1,11 @@
+#
+#	Created by Nasuf Sönmez, Nov, 2018
+#
 # this script runs a loop over isajet for varius inputs and calculates SLHA values.
-# increment the tan beta values
+# increment the tan beta values and calculates the LHE files for later analysis.
+
+
+
 for i in {0..17}
 do
 
